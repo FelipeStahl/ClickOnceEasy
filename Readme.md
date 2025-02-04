@@ -1,4 +1,4 @@
-# ClickOnceEasy #
+# ClickOnceEasy # 
 
 This project simplify the **ClickOnce deployment** of all applications type.
 
